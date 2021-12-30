@@ -1,2 +1,2 @@
 # discordbot.ts
-Comming Soon..
+> Comming Soon..
