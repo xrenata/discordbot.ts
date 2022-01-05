@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "esModuleInterop": true,
+        "declaration": false,
+        "outDir": "./bin",
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    }
+}

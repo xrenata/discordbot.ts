@@ -1,0 +1,21 @@
+{
+  "name": "discordbot.ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xrenata/discordbot.ts.git",
+  "author": "Okeanos <76732468+Okeanos-0@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node .\\src\\client\\client.ts"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.8",
+    "discord.js": "^13.5.0",
+    "discordx": "^9.1.7",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
